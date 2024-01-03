@@ -1,0 +1,6 @@
+*.tsx linguist-language=TypeScript
+# Example of excluding a path
+build/* linguist-generated=true
+
+# Example of marking a file as generated
+large.html linguist-generated=true
